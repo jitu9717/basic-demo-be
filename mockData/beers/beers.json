@@ -1,0 +1,28 @@
+{
+  "beers": [
+    {
+      "id": 1,
+      "beerType": "Aler Beer"
+    },
+    {
+      "id": 2,
+      "beerType": "Draught Beer"
+    },
+    {
+      "id": 3,
+      "beerType": "Lager Beer"
+    },
+    {
+      "id": 4,
+      "beerType": "Stout Beer"
+    },
+    {
+      "id": 5,
+      "beerType": "Wheat Beer"
+    },
+    {
+      "id": 6,
+      "beerType": "Porter Beer"
+    }
+  ]
+}
